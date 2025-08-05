@@ -4,7 +4,7 @@ Progressive learning repo combining algorithm drills, ML fundamentals, and an ag
 
 | Track | Folder | Purpose |
 |-------|--------|---------|
-| Algorithms & LeetCode | `leetcode/` | Sharpen problem-solving in Python & SQL |
+| Algorithms & LeetCode | `python-coding-challenges/` | Sharpen problem-solving in Python & SQL |
 | ML Foundations | `ml_basics/` | Build, tune, and explain classical models |
 | Agentic-AI Journey | `agents/` | Prototype multi-agent analytics pipelines |
 
