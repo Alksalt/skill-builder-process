@@ -1,5 +1,6 @@
 .DS_Store
 Thumbs.db
+**/data/
 ehthumbs.db
 __pycache__/
 *.pyc
@@ -21,4 +22,3 @@ reports/
 *.swp
 *.swo
 ~$*
-ml_basics/notebooks/DL/data/
